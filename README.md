@@ -7,7 +7,7 @@ Projeto realizado a Next Level Week 6 da Rocketseat em Jul/2021
 </p>
 
 <h1 align="center">
-    Em breve a cover aqui
+    <img src="https://i.ibb.co/QrxkW7P/letmeask-Home.png">
 </h1>
 
 <br>
