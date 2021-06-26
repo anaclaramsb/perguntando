@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Letmeask" src="https://raw.githubusercontent.com/josepholiveira/letmeask/586809232149f68a24cd13f4be27c599920e937c/.github/letmeask-logo.svg" width="160px">
+ <img src="https://i.ibb.co/D4xG0jx/Perguntando.png" alt="Perguntando" width="160px"></a>
 </p>
 
 <p align="center">

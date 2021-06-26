@@ -1,5 +1,5 @@
 import illustrationImg from '../assets/images/illustration.svg';
-import logoImg from '../assets/images/logo.svg';
+import logoImg from '../assets/images/logo.png';
 //necessário usar import com REACT: webpack (snowpack, vite,...)
 import { FormEvent, useState } from 'react';
 import { Link, useHistory } from 'react-router-dom';

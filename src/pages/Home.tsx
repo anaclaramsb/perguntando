@@ -1,5 +1,5 @@
-import illustrationImg from '../assets/images/illustration.svg';
-import logoImg from '../assets/images/logo.svg';
+import illustrationImg from '../assets/images/tecno.png';
+import logoImg from '../assets/images/logo.png';
 import googleIconImg from '../assets/images/google-icon.svg';
 //necessário usar import com REACT: webpack (snowpack, vite,...)
 
@@ -48,9 +48,8 @@ export function Home() {
         <div id="page-auth">
             <aside>
                 <img src={illustrationImg} alt="Ilustração simbolizando perguntas e respostas" />
-                <strong>Toda pergunta tem uma resposta.</strong>
-                <p>Tire as dúvidas da sua audiência em tempo real, aprenda e compartilhe conhecimento
-                    com outras pessoas</p>
+                <strong>Facilitando a interação entre conversas em tempo real.</strong>
+                <p>Receba e mande perguntas para sua audiência ou para a pessoa que você está assistindo, compartilhando conhecimento ao vivo.</p>
             </aside>
             <main>
                 <div className="main-content">
