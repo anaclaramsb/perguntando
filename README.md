@@ -1,13 +1,13 @@
 <p align="center">
- <img src="https://i.ibb.co/D4xG0jx/Perguntando.png" alt="Perguntando" width="160px"></a>
+ <img src="src/assets/images/logo.png" alt="Perguntando" width="160px"></a>
 </p>
 
 <p align="center">
-Projeto realizado a Next Level Week 6 da Rocketseat em Jul/2021
+Projeto aprendido realizado a Next Level Week 6 da Rocketseat em Jul/2021, modificado por Ana Clara Batista
 </p>
 
 <h1 align="center">
-    <img src="https://i.ibb.co/QrxkW7P/letmeask-Home.png">
+   <img src="https://i.ibb.co/xhNR1jh/perguntando.png" alt="perguntando" border="0"></a>
 </h1>
 
 <br>
