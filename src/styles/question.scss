@@ -10,6 +10,20 @@
     //question vem com o margin-top
     //isso significa que a primeira não tem margin top
 
+     &.highlighted{
+        background: #cdf6fc;
+        border: 1px solid #52B9EB;
+
+        footer .user-info span {
+            color: #29292e;
+        }
+     }
+
+     &.answered{
+        background: #dbdcdd;
+        border: 1px solid darkgrey;
+     }
+
     p{
         color: #29292e;
     }
@@ -35,6 +49,11 @@
             color: #737380;
             font-size: 14px;
         }
+    }
+
+    >div{
+        display: flex;
+        gap: 16px;
     }
 
     button {

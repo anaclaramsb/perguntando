@@ -1,4 +1,4 @@
-import illustrationImg from '../assets/images/illustration.svg';
+import illustrationImg from '../assets/images/tecno.png';
 import logoImg from '../assets/images/logo.png';
 //necessário usar import com REACT: webpack (snowpack, vite,...)
 import { FormEvent, useState } from 'react';
@@ -28,15 +28,15 @@ export function NewRoom() {
             authorId: user?.id,
         })
 
-        history.push(`/rooms/${firebaseRoom.key}`)
+        history.push(`/admin/rooms/${firebaseRoom.key}`)
     }
 
     return (
         <div id="page-auth">
             <aside>
                 <img src={illustrationImg} alt="Ilustração simbolizando perguntas e respostas" />
-                <strong>Crie salas de Q&amp;A ao vivo</strong>
-                <p>Tire as dúvidas da sua audiência em tempo real</p>
+                <strong>Facilitando a interação entre conversas em tempo real.</strong>
+                <p>Receba e mande perguntas para sua audiência ou para a pessoa que você está assistindo, compartilhando conhecimento ao vivo.</p>
             </aside>
             <main>
                 <div className="main-content">
