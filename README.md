@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-Projeto aprendido e realizado na Next Level Week 6 da Rocketseat em Jul/2021, modificado por Ana Clara Batista
+Projeto aprendido e realizado na Next Level Week 6 - ReactJS da Rocketseat em Jul/2021, com nome de projeto inicial com: LetMeAsk. Modificado por Ana Clara Batista.
 </p>
 
 <h1 align="center">
