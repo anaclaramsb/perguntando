@@ -12,7 +12,7 @@ Projeto aprendido e realizado na Next Level Week 6 - ReactJS da Rocketseat em Ju
 
 <br>
 
-## 🧪 Technologies
+## 🧪 Tecnologias
 
 Esse projeto usou as seguintes tecnologias:
 
@@ -20,6 +20,10 @@ Esse projeto usou as seguintes tecnologias:
 - [Firebase](https://firebase.google.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 
+## ⭐ Próximos passos
+
+- Mobile
+- Tema Dark/Light
 
 ---
 
